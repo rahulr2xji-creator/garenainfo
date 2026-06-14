@@ -1,0 +1,7 @@
+fastapi
+requests
+uvicorn
+flask
+requests
+pycryptodome
+protobuf
